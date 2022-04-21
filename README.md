@@ -1,2 +1,2 @@
 # pdf2jpeg
-Convert scanned Pdf into a single jpeg file.
+Convert scanned ibgc Pdf into a single jpeg vertical file.
